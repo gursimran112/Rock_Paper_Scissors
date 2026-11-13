@@ -4,7 +4,7 @@ A desktop Rock, Paper, Scissors game built with **Python** and **Tkinter**. Play
 
 ## Game screenshot
 
-![Rock, Paper, Scissors game screenshot](game-screenshot.jpeg.jpeg)
+![Rock, Paper, Scissors game screenshot](game-screenshot.jpeg)
 
 ## Features
 
